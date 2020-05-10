@@ -5,3 +5,7 @@ print("hello world")
 これでpushできるようになったかな
 ci 
 """
+
+"""
+git hubで変えた場合でもできるのか？
+"""
